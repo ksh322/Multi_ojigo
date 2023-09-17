@@ -63,7 +63,7 @@ https://www.youtube.com/watch?v=89994MummJo&list=LL&index=9&ab_channel=cloudkaka
 - python manage.py migrate
 - python manage.py runserver
 
-## ☁ 기술 스택
+## ☁ 설치 version
 
 - Python 3.9
 - Django 4.1.3
