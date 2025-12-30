@@ -1,5 +1,11 @@
 # Multi_DeployGo
 ## 카카오클라우드스쿨 최종프로젝트
+
+### My Role
+- Django 기반 배포 관리 웹 백엔드 개발
+- ArgoCD를 활용한 배포 자동화 설계
+- 배포 승인 / 이력 관리 기능 구현
+
 ## ☁️ 프로젝트 소개영상
 https://www.youtube.com/watch?v=89994MummJo&list=LL&index=9&ab_channel=cloudkakao
 
